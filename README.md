@@ -4,4 +4,6 @@
 ### Model thực hiện quá trình phân loại người nói trên tập dữ liệu gồm 6 người nói, mỗi người có 10 file audio sử dụng mạng softmax
 
 ### preprocessor.py
-####  Dùng để đọc dữ liệu từ thư mục data, list ra toàn bộ đường dẫn audio trong thư mục và ứng với mỗi người nói được xử lý ứng với đường dẫn audio phù hợp
+####  Dùng để đọc dữ liệu từ thư mục data, list ra toàn bộ đường dẫn audio trong thư mục và ứng với mỗi người nói được xử lý ứng với đường dẫn audio phù hợp và lưu vào file data để sử dụng sau
+
+
